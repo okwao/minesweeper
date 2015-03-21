@@ -1,0 +1,28 @@
+div{
+	text-align: center;
+}
+tr{
+	background-color: red;
+	height: 50px;
+	width: 50px;
+}
+
+td{
+	width: 60px;
+	height: 60px;
+}
+.yay1{
+	background-image: url(../imgs/hfc.jpg);
+	background-size: 140%;
+	background-repeat: no-repeat;
+}
+.dead{
+	background-color: black;
+}
+
+img {
+width: 40px;
+height: 40px;
+display: block;
+margin: auto;
+}
